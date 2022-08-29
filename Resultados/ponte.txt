@@ -1,2 +1,1 @@
-Nome do Arquivo: ponte
-Dimensao da Matriz: (4, 4)
+ponte (4, 4)

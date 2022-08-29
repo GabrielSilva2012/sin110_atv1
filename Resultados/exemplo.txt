@@ -1,2 +1,1 @@
-Nome do Arquivo: exemplo
-Dimensao da Matriz: (7, 7)
+exemplo (7, 7)
