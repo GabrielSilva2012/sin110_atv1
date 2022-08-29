@@ -1,0 +1,2 @@
+Nome do Arquivo: zachary
+Dimensao da Matriz: (34, 34)
