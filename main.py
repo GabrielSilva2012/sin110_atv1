@@ -29,7 +29,7 @@ def salvaResultado(file):
     return a
 
 #parametro com nome do arquivo a ser acessado
-nome_arquivo = 'zachary'
+nome_arquivo = 'ponte'
 resultado = pegaMatriz(nome_arquivo)
 
 # lista criada para armazenamentos de dados que serao utilizados na funcao salvaResultado
